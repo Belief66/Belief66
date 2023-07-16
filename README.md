@@ -5,4 +5,4 @@ Config files for my GitHub profile.
 ## 开发环境
 操作系统：Windows 10 系统
 开发工具：JDK8，Android Studio 2021.2.0.0+模拟器，Tomcat 9.0.55
-API版本：Android API 30
+API版本：Android API 30 
